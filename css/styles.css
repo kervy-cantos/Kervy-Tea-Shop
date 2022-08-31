@@ -1,0 +1,11 @@
+h1,h2,p{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(228,202,168);
+}
+
+div{
+    width: 300px;
+}
