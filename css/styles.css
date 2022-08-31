@@ -4,6 +4,9 @@ h1,h2,p{
 
 body{
     background-color: rgb(228,202,168);
+    background-image: url('/images/background.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .teaMenu{
