@@ -6,7 +6,7 @@ body{
     background-color: rgb(228,202,168);
 }
 
-div{
+.teaMenu{
     background-color: orange;
     width: 80%;
     margin-left: auto;
