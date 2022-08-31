@@ -7,5 +7,6 @@ body{
 }
 
 div{
+    background-color: rgb(228,202,168);
     width: 300px;
 }
