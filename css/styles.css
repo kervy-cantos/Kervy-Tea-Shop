@@ -23,8 +23,10 @@ body{
 
 .teaFlavor{
     text-align: left;
+    width: 50%;
 }
 
 .teaPrice{
     text-align: right;
+    width: 50%;
 }
