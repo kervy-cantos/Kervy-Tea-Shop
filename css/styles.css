@@ -15,9 +15,16 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+
+.teaItem{
+    background-color: red;
+    display: inline-block;
+}
+
 .teaFlavor{
     text-align: left;
 }
+
 .teaPrice{
     text-align: right;
 }
