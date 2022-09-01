@@ -16,7 +16,7 @@ body{
     margin-right: auto;
 }
 
-.teaItem{
+.teaItem p{ 
     background-color: red;
     display: inline-block;
 }
